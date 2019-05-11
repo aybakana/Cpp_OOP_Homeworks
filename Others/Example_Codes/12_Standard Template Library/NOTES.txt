@@ -1,0 +1,10 @@
+NOTES on Vector library
+
+1) vector.back()          // display the last element
+2) vector.pop_back()      // remove the last element
+3) vector.push_back()     // put values at end of array
+4) vector.swap(vector)    // swap the vector with vector
+5) vector.empty()         // returns true if vector is empty
+6) vector.size()          // returns the size of vector
+7) vector.insert( vector.begin()+2, 115);         // insert 115 at element 2
+8) vector.erase( vector.begin()+2 );              // erase element 2
